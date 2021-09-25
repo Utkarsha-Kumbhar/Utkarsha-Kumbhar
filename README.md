@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsha K</h1>
-<h3 align="center">A Daughter, A Programmer, A Player, An Explorer, A free bird ❤️</h3>
+<h3 align="center">A Daughter, A Friend, A Programmer, A Player, An Explorer, A Free bird ❤️</h3>
 
 - 🔭 I’m currently working on **Data Structures and Algorithm**
 
