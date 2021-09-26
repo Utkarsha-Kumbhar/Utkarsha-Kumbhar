@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Utkarsha K</h1>
-<h3 align="center"> A Free Bird ❤️</h3>
 
 - 🔭 I’m currently working on **Data Structures and Algorithm**
 
