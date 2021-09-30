@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **b19040@students.iitmandi.ac.in**
 
-- ⚡ Fun fact -  **I Love Rabbits!**
+- ⚡ Fun fact -  **I still love to watch cartoons!**
 
 
 <h3 align="left">Languages and Tools:</h3>
