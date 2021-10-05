@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Utkarsha-Kumbhar](https://github.com/Utkarsha-Kumbhar)
-
 - 💬 Ask me about **Machine Learning, Python,CPP, Frontend Development**
 
 - 📫 How to reach me **b19040@students.iitmandi.ac.in**
